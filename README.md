@@ -16,3 +16,5 @@ can be on any web server or even lcoal
 file system 
 
 ## How to Contribute
+
+2020 Git.trainig.
