@@ -8,10 +8,11 @@ of the git repo and various commands
 using a web project
 
 ## Purpose
-
-Sample website with plenty of files for demos
-
+As stated abovem, the main purpoise is to 
+provide simple examples for git training
 ## Deployment
-
+This is a simple web project, deployment
+can be on any web server or even lcoal
+file system 
 
 ## How to Contribute
