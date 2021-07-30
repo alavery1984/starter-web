@@ -2,6 +2,8 @@
 This is a simple website project for 
 showing how to use Git and Github together. 
 
+more changes from my feature r=bachcen 
+
 add a l;ine for rebasing example 
 
 ## Introduction
