@@ -17,4 +17,5 @@ file system
 
 ## How to Contribute
 
+please fork this repo and issue pull requests for review
 2020 Git.trainig.
