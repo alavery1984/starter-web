@@ -6,6 +6,8 @@ more changes from my feature r=bachcen
 
 add a l;ine for rebasing example 
 
+updaing for emergfency fix
+
 ## Introduction
 This is an example of how to show differnt parts 
 of the git repo and various commands 
