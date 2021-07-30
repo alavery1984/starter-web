@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    aaron lavery aaron.lavery@gmail
 # THANKS
 
     <name>
